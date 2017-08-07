@@ -1,0 +1,2 @@
+module LongestWordsHelper
+end
